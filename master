@@ -1,0 +1,10 @@
+# programme4
+ascii value
+#include<stdio.h
+void main()
+{
+char ch;
+int a;
+ch=a;
+printf("the ascii value %c",ch);
+}
